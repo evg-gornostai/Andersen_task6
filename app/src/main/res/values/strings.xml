@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">recycler</string>
+
+    <string name="cell_contact_name">Имя: [CONTACT_NAME]</string>
+    <string name="cell_contact_surname">Фамилия: [CONTACT_SURNAME]</string>
+    <string name="cell_contact_phone">Телефон: [CONTACT_PHONE]</string>
+    <string name="contacts_header">Информация контакта: [CONTACT_NAME]</string>
 </resources>
