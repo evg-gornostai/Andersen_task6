@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Projects/andersen homework/lesson6/recycler/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Projects/andersen homework/lesson6/recycler/app/src/main/res/layout/cell_contact.xml" value="0.22826086956521738" />
+        <entry key="..\:/Projects/andersen homework/lesson6/recycler/app/src/main/res/layout/fragment_contacts_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/Projects/andersen homework/lesson6/recycler/app/src/main/res/layout/fragment_details.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
